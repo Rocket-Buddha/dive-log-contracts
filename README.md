@@ -1,0 +1,4 @@
+ganache
+
+truffle migrate
+
